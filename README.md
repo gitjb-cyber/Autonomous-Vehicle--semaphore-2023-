@@ -13,6 +13,11 @@
 ![image](https://github.com/user-attachments/assets/534d4df0-e2a1-4102-b6e6-6bfbf71722f0)
 ![image](https://github.com/user-attachments/assets/46ab42db-f52b-4519-8e85-7cb6691536c1)
 
+## 알고리즘
+![image](https://github.com/user-attachments/assets/090fdf7b-e507-4ecc-8061-1aa2b29f355f)
+![image](https://github.com/user-attachments/assets/456446dc-965b-411a-9ab5-276ab7a5ba04)
+
+
 ## NRF24L01 통신 모듈을 사용한 실험
 ## 실험 1 : 1:1 양방향 통신
 ![image](https://github.com/user-attachments/assets/d2817bca-b33d-44bd-bd82-43e0055b2194)
@@ -44,13 +49,13 @@
 ## 실험 2 : 1:2 양방향 통신
 ![image](https://github.com/user-attachments/assets/f319d405-9bf2-407a-9737-022b4c878421)
 
-### 코드 설명(메인 오더)
+### 코드 설명(Main Order)
 ![image](https://github.com/user-attachments/assets/1a905086-ddf1-42b7-97e8-6fdc03d06b0f)
 ![image](https://github.com/user-attachments/assets/bf73d128-0287-48e0-ae80-74aa14eddd09)
 ![image](https://github.com/user-attachments/assets/7377d9d4-6ccc-41ba-a46b-69bde5581c30)
 ![image](https://github.com/user-attachments/assets/8b981bd6-94b1-471f-978d-1d0d6b188228)
 
-### 코드 설명(모듈 A, B)
+### 코드 설명(Module A, B)
 ![image](https://github.com/user-attachments/assets/8ae22b5a-7550-4135-86ef-fbd6f6f91054)
 ![image](https://github.com/user-attachments/assets/e3f2275d-6cb8-4930-af62-e1705465f41b)
 
@@ -60,11 +65,15 @@
 ![image](https://github.com/user-attachments/assets/175836fd-d035-44cb-9037-b9698cc8646c)
 ![image](https://github.com/user-attachments/assets/a32f7f6a-53b9-4939-aff5-1c95c8cdc06c)
 
+## 최종 실험 : RC Car 적용
+![image](https://github.com/user-attachments/assets/5d6b4ac6-a899-4b5d-9857-c0c49481053f)
+
+![실험2](https://github.com/user-attachments/assets/d9dbcc71-34ce-4705-9125-6cde38184101)
+![image](https://github.com/user-attachments/assets/2c9eb70d-5581-4b24-9537-e82d99e64f85)
 
 
-
-
-
+![실험3](https://github.com/user-attachments/assets/882cb913-6467-483c-8bdc-7151f3188779)
+![image](https://github.com/user-attachments/assets/8e9af95f-be7b-485e-aca0-324429b7d10a)
 
 
 
